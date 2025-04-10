@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android app</string>
+    <string name="launch_flutter_module">Launch Flutter Module</string>
+</resources>
